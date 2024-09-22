@@ -1,7 +1,6 @@
 ## Hi there 👋
-- 💻 I’m currently studying Computer Engineering at Universidad de Santiago de Chile. Currently in my final year.
-- 🌱 I’m currently learning about Software Engineering.
-- Currently looking for new challenges and opportunities like hackathons!
+💻 Final-year Computer Engineering student at Universidad de Santiago de Chile.
+🌱 Learning Software Engineering and seeking new challenges like hackathons!
 
 - Here's my [LinkedIn](www.linkedin.com/in/ivan-guajardo-arias-941137291) 😁
 
