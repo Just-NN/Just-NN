@@ -2,7 +2,9 @@
 💻 Final-year Computer Engineering student at Universidad de Santiago de Chile.
 🌱 Learning Software Engineering and seeking new challenges like hackathons!
 
-- Here's my [LinkedIn](www.linkedin.com/in/ivan-guajardo-arias-941137291) 😁
+<a href="https://www.linkedin.com/in/ivan-guajardo-arias-941137291">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" height="20px" alt="LinkedIn Logo">
+</a>
 
 ---
 
