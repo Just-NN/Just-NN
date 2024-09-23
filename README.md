@@ -9,10 +9,10 @@
 ---
 
 ### GitHub Stats:
-![Just-NN's GitHub stats](https://github-readme-stats.vercel.app/api?username=Just-NN&show_icons=true&theme=gruvbox)
+![Just-NN's GitHub stats](https://github-readme-stats.vercel.app/api?username=Just-NN&show_icons=true&theme=solarized-dark)
 
 ### Top Languages:
-![Just-NN's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Just-NN&layout=compact&theme=gruvbox)
+![Just-NN's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Just-NN&layout=compact&theme=solarized-dark)
 
 ---
 
