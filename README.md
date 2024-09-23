@@ -1,10 +1,18 @@
 ## Hi there 👋
-💻 Final-year Computer Engineering student at Universidad de Santiago de Chile.
+💻 Final-year Computer Engineering student at Universidad de Santiago de Chile.  
 🌱 Learning Software Engineering and seeking new challenges like hackathons!
 
 <a href="https://www.linkedin.com/in/ivan-guajardo-arias-941137291">
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" height="20px" alt="LinkedIn Logo">
 </a>
+
+---
+
+### GitHub Stats:
+![Just-NN's GitHub stats](https://github-readme-stats.vercel.app/api?username=Just-NN&show_icons=true&theme=gruvbox)
+
+### Top Languages:
+![Just-NN's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Just-NN&layout=compact&theme=gruvbox)
 
 ---
 
@@ -92,8 +100,3 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
   </a> 
 </p>
-
-
-
-
-
