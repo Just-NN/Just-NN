@@ -9,15 +9,7 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" height="20px" alt="LinkedIn Logo">
 </a>
 
----
 
-### GitHub Stats:
-![Just-NN's GitHub stats](https://github-readme-stats.vercel.app/api?username=Just-NN&show_icons=true&theme=solarized-dark)
-
-### Top Languages:
-![Just-NN's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Just-NN&layout=compact&theme=solarized-dark)
-
----
 
 ### Backend:
 <p align="left"> 
