@@ -1,9 +1,9 @@
 ## Hi there 👋
 
-💻 Ingeniero en Computación e Informática (Universidad de Santiago de Chile).
-🔧 Trabajo en desarrollo de software e ingeniería de datos — backend, APIs, microservicios e integración de sistemas.
-🌱 Construyendo mi camino hacia roles de Software Engineer, con proyectos personales en Java/Spring Boot, React y arquitecturas de microservicios.
-⚡ Me gustan los hackathons y los desafíos técnicos nuevos.
+ Ingeniero en Computación e Informática (Universidad de Santiago de Chile).
+ Trabajo en desarrollo de software e ingeniería de datos — backend, APIs, microservicios e integración de sistemas.
+ Construyendo mi camino hacia roles de Software Engineer, con proyectos personales en Java/Spring Boot, React y arquitecturas de microservicios.
+ Me gustan los hackathons y los desafíos técnicos nuevos.
 
 <a href="https://www.linkedin.com/in/ivan-guajardo-arias-941137291">
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" height="20px" alt="LinkedIn Logo">
